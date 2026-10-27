@@ -1,0 +1,10 @@
+# Local build artefacts
+site/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db
